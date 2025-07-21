@@ -1,0 +1,22 @@
+Frame Extraction Report
+======================
+Video: https://www.youtube.com/watch?v=dBgqJMwK1MU
+Date: Sun Jul 20 14:49:22 PDT 2025
+
+Extracted Frames:
+- frame_1.jpg:     8553 bytes
+- frame_10.jpg:    14976 bytes
+- frame_11.jpg:    31370 bytes
+- frame_12.jpg:    23875 bytes
+- frame_13.jpg:    25001 bytes
+- frame_14.jpg:    29630 bytes
+- frame_15.jpg:    12275 bytes
+- frame_16.jpg:    12798 bytes
+- frame_2.jpg:    10761 bytes
+- frame_3.jpg:    10673 bytes
+- frame_4.jpg:    14671 bytes
+- frame_5.jpg:    32924 bytes
+- frame_6.jpg:    15830 bytes
+- frame_7.jpg:    25137 bytes
+- frame_8.jpg:    24884 bytes
+- frame_9.jpg:    26607 bytes

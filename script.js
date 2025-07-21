@@ -26,7 +26,7 @@ const videoSegments = [
         startTime: "5:29",
         endTime: "6:04",
         timeSeconds: 329,
-        summary: "How CueCam transforms Q cards into video cues with animated titles, graphics, and seamless desktop demos - like having a production team behind you.",
+        summary: "How CueCam transforms Cue cards into video cues with animated titles, graphics, and seamless desktop demos - like having a production team behind you.",
         tags: ["CueCam", "Animation", "Production"],
         icon: "🎬"
     },
